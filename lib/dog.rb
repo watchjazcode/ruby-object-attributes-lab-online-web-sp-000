@@ -11,11 +11,11 @@ class Dog
     puts "woof!"
   end
  
-  def name=(dogs_name)
+  def breed=(dogs_name)
     @this_dogs_name = dogs_name
   end
  
-  def name
+  def breed
     @this_dogs_name
   end
   

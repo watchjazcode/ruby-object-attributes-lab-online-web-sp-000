@@ -16,3 +16,4 @@ class Dog
     @job
   end
 end
+

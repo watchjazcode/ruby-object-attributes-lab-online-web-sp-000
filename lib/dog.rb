@@ -11,12 +11,12 @@ class Dog
     puts "woof!"
   end
  
-  def breed=(dogs_name)
-    @breed = dogs_name
+  def breed=(dogs_breed)
+    @breed = dogs_breed
   end
  
   def breed
-    @this_dogs_name
+    @breed
   end
   
   def bark

@@ -6,10 +6,6 @@ class Dog
   def name
     @name
   end
-  
-  def bark
-    puts "woof!"
-  end
  
   def breed=(dogs_breed)
     @breed = dogs_breed
@@ -18,14 +14,4 @@ class Dog
   def breed
     @breed
   end
-  
-  def bark
-    puts "woof!"
-  end
 end
- 
-
-  
-  
-end
- 
